@@ -13,7 +13,6 @@
 ### Project Background
 When trying to find a topic for the Final, I was messing around with QuickOSM data and when I made a query for waterfalls in Kentucky, I noticed not all waterfalls had names in the attribute table. I then decided to map those without names alongside the waterfalls with names. This map is usefull for those who wish to visit these waterfalls and perhaps come up with names for them themselves. 
 
-If you are interested in [other Markdown formatting options](https://www.markdownguide.org/basic-syntax/)
 
 
 ### Mapmaking Process
