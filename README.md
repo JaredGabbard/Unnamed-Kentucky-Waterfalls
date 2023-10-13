@@ -32,4 +32,4 @@ This map was created in order to show waterfalls in Kentucky that have not been 
 
 ## Final Project Link
 
-Please view the [http://127.0.0.1:5500/index.html](https://github.com/JaredGabbard/Unnamed-Kentucky-Waterfalls/tree/main)
+Please view the [http://127.0.0.1:5500/index.html](Final Project)
