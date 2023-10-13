@@ -15,7 +15,6 @@ When trying to find a topic for the Final, I was messing around with QuickOSM da
 
 If you are interested in [other Markdown formatting options](https://www.markdownguide.org/basic-syntax/)
 
-### Purpose
 
 ### Mapmaking Process
 
@@ -32,4 +31,4 @@ This map was created in order to show waterfalls in Kentucky that have not been 
 
 ## Final Project Link
 
-Please view the [http://127.0.0.1:5500/index.html(index.html)] Final Project
+<a href="index.html" title="Final Project">Final Project</a>
